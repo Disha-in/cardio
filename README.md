@@ -1,1 +1,1 @@
-# cardio
+# Heart-Disease-Pred
